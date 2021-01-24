@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Umba</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="directorio">/ArchivosUmba</string>
+    <string name="UrlImage">https://image.tmdb.org/t/p/w500</string>
+    <string name="from_image">_front.jpg</string>
+    <string name="back">_back.jpg</string>
+    <string name="Empty"></string>
+    <string name="database_name">Umba_database</string>
+</resources>
